@@ -1,0 +1,6 @@
+{
+  "name": "AgroAI — Intelligent Crop Doctor",
+  "description": "AI-powered crop disease detection and agronomic advisory system for Ethiopian farmers with multilingual support in Afaan Oromoo, Amharic, and English.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
